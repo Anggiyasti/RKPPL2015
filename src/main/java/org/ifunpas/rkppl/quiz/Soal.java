@@ -28,6 +28,8 @@ public class Soal {
     }
     
     public int pertambahan(int bilA,int bilB) {
+        System.out.println("Ini Pertambahan");
         return bilA + bilB;
+        
     }
 }
