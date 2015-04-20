@@ -27,7 +27,7 @@ public class Soal {
         return hasil;
     }
     
-    public int perkalian(int bilA,int bilB) {
-        return bilA * bilB;
+    public int pertambahan(int bilA,int bilB) {
+        return bilA + bilB;
     }
 }
